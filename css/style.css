@@ -309,7 +309,7 @@ a span {
 .cursos {
 	display: grid;
 	gap: 10px;
-	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     	grid-auto-rows: 260px;
 	justify-items: center;
 }
@@ -872,6 +872,7 @@ footer a {
 		padding: 0;
 	}
 	.cursos {
+		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
 		grid-auto-rows: 340px;
 		width: 80%;
 	}
