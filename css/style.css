@@ -780,7 +780,7 @@ footer a {
     	}
 	.menlace {
 		padding: 14px;
-		font-size: 1em;
+		font-size: 1.2em;
 	}
 	.submenu.desplegar {
 		display: block;
@@ -798,7 +798,7 @@ footer a {
 		cursor: pointer;
 	}
 	.selectbutton {
-		font-size: 1em;
+		font-size: 1.2em;
 	}
 	#boton1, #boton2, #boton3 {
 		background-image: none;
